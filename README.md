@@ -22,7 +22,8 @@ Segment customers into meaningful groups based on purchasing behavior and demogr
 ## Approach
 
 ### 1. Data Preprocessing
-- Handled missing values  
+- Performed feature engineering to transform raw attributes into more meaningful features
+- Handled outliers to improve clustering quality 
 - Scaled numerical features  
 
 ### 2. Clustering Techniques
@@ -50,6 +51,5 @@ Segment customers into meaningful groups based on purchasing behavior and demogr
 
 ---
 
-## Future Improvements
-- Use advanced clustering techniques  
+## Future Improvements 
 - Deploy segmentation dashboard  
